@@ -1,7 +1,7 @@
 # Flame Derivative
 Tool for finding fractals that closely match the input image (up to a given scale).
 
-*Still WIP*
+*Quite experimental and WIP*
 
 ## Usage
 ```bash
