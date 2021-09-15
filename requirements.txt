@@ -1,0 +1,6 @@
+torch
+torchvision
+pygame
+numpy
+pillow
+pyopengl
